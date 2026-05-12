@@ -16,9 +16,12 @@ body {
   border-radius: 10px;
   text-align: center;
 }
+h1 {
+  color: #153448;
+}
 
 button {
-  background: #6c63ff;
+  background: #948979;
   color: white;
   border: none;
   padding: 10px 20px;
