@@ -22,4 +22,14 @@ button {
   color: white;
   border: none;
   padding: 10px 20px;
+  height: 45px;
+  width: auto;
+  border-radius: 7px;
+ 
+  
+}
+button:hover {
+  background: red;
+  cursor: pointer;
+  transition-duration: 4s;
 }
