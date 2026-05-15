@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #1e1e2f;
+  background: #84a9da;
 
   display: flex;
   justify-content: center;
@@ -15,6 +15,7 @@ body {
   padding: 30px;
   border-radius: 10px;
   text-align: center;
+  box-shadow: #6c63ff 10px 20px 20px -2px;
 }
 
 button {
